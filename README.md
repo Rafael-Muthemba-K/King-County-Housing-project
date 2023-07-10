@@ -47,13 +47,13 @@ King County House Data: a dataset that we were provided at the onset of the proj
 # Results
 ### Explaratory Analysis
 1. <strong> Number of bedrooms vs Price <\strong> <br>
-<img src="https://user-images.githubusercontent.com/98708792/233442101-f0ee74a5-0071-49ce-b0be-66c94e1cbe88.png" alt="example image" width="500" height="250">
+<img src="" alt="example image" width="500" height="250">
 <br>
 * We saw that as number of bedrooms increase, so too does the price of the house.
 
 <br>
     2. Number of bathrooms vs Price <br>
-<img src="https://user-images.githubusercontent.com/98708792/233443296-6aa98fb9-165b-4e5f-b183-1bc3740db87c.png" alt="example image" width="500" height="250">* 
+<img src="" alt="example image" width="500" height="250">* 
 We saw that as number of bathrooms increase, so too does the price of the house.
 
 <br>
@@ -64,9 +64,10 @@ We can observe that as the grade increases so does the average price of each gro
 <br>
 
     4. Price Vs Conditions <br>
-<img src="https://user-images.githubusercontent.com/98708792/233443894-c4c6053e-11cc-4b2a-aee0-73e80a774126.png" alt="example image" width="500" height="250">
+<img src="" alt="example image" width="500" height="250">
 * From this we can see that price increases as the condition of the house increases
 * However it appears that houses in poor condition are priced higher than those with fair condition
 <br>
     5. Waterfront vs Price <br>
+    <img src="" alt="example image" width="500" height="250">
   From this we can see that houses with waterfronts are expensive by a wide range
