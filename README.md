@@ -47,27 +47,27 @@ King County House Data: a dataset that we were provided at the onset of the proj
 # Results
 ### Explaratory Analysis
 1. <strong> Number of bedrooms vs Price <\strong> <br>
-<img src="Bathroom vs price.JPG" alt="example image" width="500" height="250">
+<img src="" alt="example image" width="500" height="250">
 <br>
 * We saw that as number of bedrooms increase, so too does the price of the house.
 
 <br>
     2. Number of bathrooms vs Price <br>
-<img src="" alt="example image" width="500" height="250">* 
+<img src="https://github.com/Rafael-Muthemba/Phase-2-Independent-Project/blob/3cdf14ebf0bba6d9c856746b43b034e76ab97bbe/Bathroom%20vs%20price.JPG" alt="example image" width="500" height="250">* 
 We saw that as number of bathrooms increase, so too does the price of the house.
 
 <br>
     3. Average Price by Grade <br>
-<img src="https://user-images.githubusercontent.com/98708792/233443659-6516a204-7700-455e-8663-10630c2b1e5a.png" alt="example image" width="500" height="250">
+<img src="https://github.com/Rafael-Muthemba/Phase-2-Independent-Project/blob/3cdf14ebf0bba6d9c856746b43b034e76ab97bbe/average%20price%20by%20grade.JPG" alt="example image" width="500" height="250">
 We can observe that as the grade increases so does the average price of each grouped category, and rise of price from 3 to 9 is gradual then rises sharply 9 to 13
 
 <br>
 
     4. Price Vs Conditions <br>
-<img src="" alt="example image" width="500" height="250">
+<img src="https://github.com/Rafael-Muthemba/Phase-2-Independent-Project/blob/3cdf14ebf0bba6d9c856746b43b034e76ab97bbe/Condition%20vs%20price.JPG" alt="example image" width="500" height="250">
 * From this we can see that price increases as the condition of the house increases
 * However it appears that houses in poor condition are priced higher than those with fair condition
 <br>
     5. Waterfront vs Price <br>
-    <img src="" alt="example image" width="500" height="250">
+    <img src="https://github.com/Rafael-Muthemba/Phase-2-Independent-Project/blob/3cdf14ebf0bba6d9c856746b43b034e76ab97bbe/Waterfront%20vs%20price.JPG" alt="example image" width="500" height="250">
   From this we can see that houses with waterfronts are expensive by a wide range
