@@ -47,7 +47,7 @@ King County House Data: a dataset that we were provided at the onset of the proj
 # Results
 ### Explaratory Analysis
 1. <strong> Number of bedrooms vs Price <\strong> <br>
-<img src="" alt="example image" width="500" height="250">
+<img src="Bathroom vs price.JPG" alt="example image" width="500" height="250">
 <br>
 * We saw that as number of bedrooms increase, so too does the price of the house.
 
